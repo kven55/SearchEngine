@@ -1,0 +1,46 @@
+.button{
+    border : 2px;
+    background-color : green;
+    color : white;
+    border-radius : 5px;
+    padding : 10px 20px;
+    margin : 10px 10px;
+    cursor : hand;
+}
+a{
+    color : green;
+}
+
+h1{
+    color : white;
+}
+
+body{
+    background-color : grey;
+    text-align : center;
+}
+
+table{
+    width : 100%;
+}
+
+table, td, th {
+    border : 2px solid black;
+    border-collapse : collapse;
+}
+
+
+
+
+.TextBox{
+    width : 30%;
+    border-radius : 5px;
+    padding : 10px 10px;
+    font-family : courier;
+    outline : none;
+    margin-left : 100px;
+}
+
+.button:hover{
+ background-color : lime;
+}
